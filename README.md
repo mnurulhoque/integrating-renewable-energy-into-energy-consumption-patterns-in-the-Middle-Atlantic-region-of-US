@@ -59,16 +59,9 @@ The dual y-axis graphic for New York demonstrates that while overall energy cons
 ![Dot plot](https://github.com/mnurulhoque/integrating-renewable-energy-on-energy-consumption-patterns-in-the-Middle-Atlantic-region-of-the-US/assets/152673435/b74727a6-8c3f-4b43-b63b-0a9e02ab0bae)
 The standardized energy ratio for each of the three states from 2001 to 2022 is displayed on a dot plot. The Pennsylvania data was centered in the range of 90–170 thousand MW. The spread ranges for the data for New Jersey and New York, however, were larger, ranging from 50 to 350 thousand MW. 
 
+# Conclusions
+The conclusions drawn from the visualizations in this research highlight a noticeable correlation between the growth of renewable energy generation and the overall energy consumption within the studied context. The observed strong positive relationship indicates that as renewable energy integration increases, there's a concurrent rise in overall energy consumption. However, it's crucial to acknowledge the complexity of energy consumption as it's influenced by numerous interconnected variables beyond just renewable energy integration. Therefore, asserting that energy consumption solely increases due to the integration of renewable sources becomes challenging given this multifaceted nature which requires further research. 
 
-
-
-
-
-
-
-
-
-
-
-
+# Policy Implications 
+Governments and policymakers can use these insights to strengthen policies promoting renewable energy adoption. They can incentivize and invest in renewable energy projects, offer subsidies for clean energy technologies, and establish renewable energy targets to reduce reliance on coal and other fossil fuels. 
 

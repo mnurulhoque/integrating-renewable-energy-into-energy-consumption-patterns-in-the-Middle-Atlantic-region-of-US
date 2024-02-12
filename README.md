@@ -104,3 +104,7 @@ The conclusions drawn from the visualizations in this research highlight a notic
 # Policy Implications 
 Governments and policymakers can use these insights to strengthen policies promoting renewable energy adoption. They can incentivize and invest in renewable energy projects, offer subsidies for clean energy technologies, and establish renewable energy targets to reduce reliance on coal and other fossil fuels. 
 
+# Project Code File 
+[R Code File](https://github.com/mnurulhoque/integrating-renewable-energy-into-energy-consumption-patterns-in-the-Middle-Atlantic-region-of-US/blob/main/Final%20project_code%20file.R)
+
+

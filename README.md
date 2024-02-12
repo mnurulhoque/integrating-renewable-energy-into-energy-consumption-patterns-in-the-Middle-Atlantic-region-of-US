@@ -8,7 +8,9 @@ This [CSV file](https://github.com/mnurulhoque/integrating-renewable-energy-on-e
 
 # Resources & Tools Used
 Core programming language: R version 4.3.1
+
 Development environment: RStudio
+
 Libraries & packages: ggplot2, dplyr, viridis, hrbrthemes, GGally, plm, lmtest, car, patchwork, usmap, sf, raster, tmap, ggspatial, rnaturalearth, ggmap, leaflet, scales, cartography, sp, webshot2, magick, gganimate, corrplot
 
 # Data Cleaning

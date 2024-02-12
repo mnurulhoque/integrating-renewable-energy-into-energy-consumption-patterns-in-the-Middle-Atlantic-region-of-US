@@ -4,7 +4,7 @@
 This project was conducted as the final project required by the 'Data Visualization' course at E.J. Bloustein School of Planning and Public Policy, Rutgers University. Graphical visualization techniques have been employed to assess the impact of integrating renewable energy into energy consumption patterns in the Middle Atlantic region of the United States, particularly emphasizing New Jersey, New York, and Pennsylvania. Utilizing data spanning from 2001 to 2022, these visualizations offered insights into the evolving relationship between renewable energy adoption and energy consumption trends within this region. 
 
 # Data Set
-[CSV file](https://github.com/mnurulhoque/integrating-renewable-energy-on-energy-consumption-patterns-in-the-Middle-Atlantic-region-of-the-US/blob/main/Energy_Dataset_MDA.csv) was used here as the data set.  
+This [CSV file](https://github.com/mnurulhoque/integrating-renewable-energy-on-energy-consumption-patterns-in-the-Middle-Atlantic-region-of-the-US/blob/main/Energy_Dataset_MDA.csv) was used here as the data set.  
 
 # Resources & Tools Used
 Core programming language: R version 4.3.1

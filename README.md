@@ -21,4 +21,23 @@ The violin charts demonstrate how the states' overall energy use differs from on
 ![Violin plot-distribution of renew energy generation](https://github.com/mnurulhoque/integrating-renewable-energy-on-energy-consumption-patterns-in-the-Middle-Atlantic-region-of-the-US/assets/152673435/cca37b56-039f-4f0e-bf03-2c4bdfad573a)
 The violin charts demonstrate how the states' overall amounts of renewable energy generation differ from one another. New Jersey, New York, and Pennsylvania had median renewable energy generation of 962.50, 5014, and 4331.50 megawatts, respectively. 
 
+## Growth of total energy consumption and total renewable energy generation over the years
+![Parallel coordinates plot](https://github.com/mnurulhoque/integrating-renewable-energy-on-energy-consumption-patterns-in-the-Middle-Atlantic-region-of-the-US/assets/152673435/6580cb30-d482-4a56-8fc6-180bf0c9f810)
+Pennsylvania consumed the most energy overall, followed by New Jersey and New York. In contrast to the other two states, Pennsylvania experiences a larger variation. However, the state of New York generated the most renewable energy overall, followed by New Jersey and Pennsylvania. In this case, Pennsylvania and New York differed more than New Jersey did. In terms of population, Pennsylvania and New Jersey were next in line, with New York having the largest. All three states, however, had the least variation in population. Among all the states, the GDP index had the most deviation. 
+<img width="556" alt="Radar plot" src="https://github.com/mnurulhoque/integrating-renewable-energy-on-energy-consumption-patterns-in-the-Middle-Atlantic-region-of-the-US/assets/152673435/724c9fab-37a2-4b51-a01c-53b9e8a0e168">
+Findings in the parallel coordinate plots are repeated by radar plots, which show that Pennsylvania consumed the most energy overall, followed by New York and New Jersey. The state of New York generated the most renewable energy overall, followed by New Jersey and Pennsylvania.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

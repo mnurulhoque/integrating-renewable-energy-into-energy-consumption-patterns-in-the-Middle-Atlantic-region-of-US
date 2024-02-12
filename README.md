@@ -3,6 +3,14 @@
 # Project Overview
 This project was conducted as the final project required by the 'Data Visualization' course at E.J. Bloustein School of Planning and Public Policy, Rutgers University. Graphical visualization techniques have been employed to assess the impact of integrating renewable energy into energy consumption patterns in the Middle Atlantic region of the United States, particularly emphasizing New Jersey, New York, and Pennsylvania. Utilizing data spanning from 2001 to 2022, these visualizations offered insights into the evolving relationship between renewable energy adoption and energy consumption trends within this region. 
 
+# Data Set
+[CSV file](https://github.com/mnurulhoque/integrating-renewable-energy-on-energy-consumption-patterns-in-the-Middle-Atlantic-region-of-the-US/blob/main/Energy_Dataset_MDA.csv) was used here as the data set.  
+
+# Resources & Tools Used
+Core programming language: R version 4.3.1
+Development environment: RStudio
+Libraries & packages: ggplot2, dplyr, viridis, hrbrthemes, GGally, plm, lmtest, car, patchwork, usmap, sf, raster, tmap, ggspatial, rnaturalearth, ggmap, leaflet, scales, cartography, sp, webshot2, magick, gganimate, corrplot
+
 # Data Cleaning
 In the initial data preparation phase, the following data cleaning tasks were performed:
 1. Data loading and inspection
@@ -55,16 +63,19 @@ New Jersey (about 1000 thousand MW) and Pennsylvania (around 1600 thousand MW) p
 ## Main Graph
 We have used the Correlogram and correlation matrix as our main graph to prove our hypothesis in this study that renewable energy generation does have an impact on the total energy consumption in the selected states. The rationale behind choosing the Correlogram and correlation matrix here because the correlation coefficient helps us to decide the direction as well as the strength of the relationship between the variables. 
 
+## New Jersey
 ![Correlogram-NJ](https://github.com/mnurulhoque/integrating-renewable-energy-on-energy-consumption-patterns-in-the-Middle-Atlantic-region-of-the-US/assets/152673435/fb1bfdb5-2a3f-4984-bd94-bf6543cd8c3f)
 ![Correlation matrix-NJ](https://github.com/mnurulhoque/integrating-renewable-energy-on-energy-consumption-patterns-in-the-Middle-Atlantic-region-of-the-US/assets/152673435/b10f8bef-43cd-4cf8-ba99-ce5fcb896926)
 
 The variables total energy consumption, renewable energy generation, tariff, income, population, and GDP all showed a significant negative connection with coal consumption. Except for renewable energy generation and GDP, which showed a high positive link, total energy consumption showed a moderately positive correlation with the variables (tariff, income, and population). Apart from tariffs, which had a somewhat favorable association, the production of renewable energy exhibited a substantial positive correlation with income, population, and GDP. There was a significant positive association between all other variables.
 
+## New York
 ![Correlogram-NY](https://github.com/mnurulhoque/integrating-renewable-energy-on-energy-consumption-patterns-in-the-Middle-Atlantic-region-of-the-US/assets/152673435/ee3d53dc-b82d-4e28-bdaa-67292fc1089f)
 ![Correlation matrix-NY](https://github.com/mnurulhoque/integrating-renewable-energy-on-energy-consumption-patterns-in-the-Middle-Atlantic-region-of-the-US/assets/152673435/6b648f61-25fa-493b-a304-a562968b9009)
 
 Except for tariff (moderately negative), coal use had a high negative connection with all of the variables (total energy consumption, renewable energy generation, income, population, and GDP). Except for income, which exhibited a somewhat positive association, total energy consumption had a high positive correlation with population, GDP, and renewable energy generation. Except for GDP (very positive), tariffs had a somewhat positive connection with population and income. There was a significant positive association between all other variables. Except for tariff (moderately negative), coal use had a high negative connection with all of the variables (total energy consumption, renewable energy generation, income, population, and GDP). Except for income, which exhibited a somewhat positive association, total energy consumption had a high positive correlation with population, GDP, and renewable energy generation. Except for GDP (very positive), tariffs had a somewhat positive connection with population and income. There was a significant positive association between all other variables.
 
+## Pennsylvania
 ![Correlogram-PA](https://github.com/mnurulhoque/integrating-renewable-energy-on-energy-consumption-patterns-in-the-Middle-Atlantic-region-of-the-US/assets/152673435/0dbb10c9-9671-4106-be41-7acc678b4e8b)
 ![Correlation matrix-PA](https://github.com/mnurulhoque/integrating-renewable-energy-on-energy-consumption-patterns-in-the-Middle-Atlantic-region-of-the-US/assets/152673435/d70a32a2-6df3-4c34-abc5-d52c02454cfe)
 
